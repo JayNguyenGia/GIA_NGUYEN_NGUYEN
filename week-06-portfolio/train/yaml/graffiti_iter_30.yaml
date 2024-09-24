@@ -1,0 +1,4 @@
+train: c:\Users\Jay Nguyen\Documents\Github\COS40007-Artificial-Intelligence-for-Engineering\week-06-portfolio\images\train_selected_iter_30
+val: c:\Users\Jay Nguyen\Documents\Github\COS40007-Artificial-Intelligence-for-Engineering\datasets\11\images\test_selected
+nc: 1
+names: [Graffiti]
